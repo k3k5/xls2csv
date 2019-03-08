@@ -8,4 +8,4 @@ If you know, how the terminal works, just skip this whole part. If not, here is 
 
 
 **EDIT:**
-If you can't select "Terminal", either get yourself a cool terminal (ohmyzsh and iTerm2) or just drag&drop the file xls2csv.sh to your opened terminal. Then it should work properly ;)
+If you can't select "Terminal", either get yourself a better terminal (ohmyzsh and iTerm2) or just drag&drop the file xls2csv.sh to your opened terminal. Then it should work properly ;)
